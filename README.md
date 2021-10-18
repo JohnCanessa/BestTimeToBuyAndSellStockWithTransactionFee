@@ -7,7 +7,7 @@ Started as a dynamic programming problem and ended as a single loop.
 If you are interested in this problem, my comments and approach I
 invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/19/best-time-to-buy-and-sell-stock-with-transaction-fee/
 
 Keep in mind that one of the best ways to learn and refresh knowledge
 is to read and practice.
